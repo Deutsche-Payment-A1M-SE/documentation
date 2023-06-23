@@ -3,4 +3,4 @@
 
 test gateway merchant panel URL 
 
-https://eu-test.deutsche-payment-gateway.com/authentication/v1/login
+https://eu-test.deutsche-payment-gateway.com/bip/login
